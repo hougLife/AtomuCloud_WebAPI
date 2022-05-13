@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomuCloud_WebAPI", "AtomuCloud_WebAPI.csproj", "{7BC95432-940A-4CC6-ACEC-FCB4A478C731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC95432-940A-4CC6-ACEC-FCB4A478C731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC95432-940A-4CC6-ACEC-FCB4A478C731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC95432-940A-4CC6-ACEC-FCB4A478C731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC95432-940A-4CC6-ACEC-FCB4A478C731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA431DF2-F808-48D9-AC18-243F22CD7386}
+	EndGlobalSection
+EndGlobal
